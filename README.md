@@ -1,7 +1,7 @@
 # 🛡️ Human-Centric AQI Health Risk Intelligence System
 
 From **AQI Numbers → Human Health Risk → Actionable Insights**
-![Hero Image](images/dashboard.png)
+![Hero Image](dashboard.png)
 ---
 
 ## 📌 Overview
