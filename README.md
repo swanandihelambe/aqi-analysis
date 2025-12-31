@@ -1,7 +1,7 @@
 # 🛡️ Human-Centric AQI Health Risk Intelligence System
 
 From **AQI Numbers → Human Health Risk → Actionable Insights**
-
+![Hero Image](images/dashboard.png)
 ---
 
 ## 📌 Overview
@@ -54,4 +54,27 @@ The goal is not just prediction — but **interpretability, impact, and decision
 - Transformed raw AQI data into **clear, human-centric insights**
 
 ---
+## 🚀 Live Dashboard Features
+
+### 🔥 Tab 1: Risk Intelligence
+
+- City selector: Delhi / Mumbai / Kolkata / Bengaluru  
+- Persona selector: Children / Elderly / Outdoor Workers  
+- Heatmap of unsafe days per month  
+- Multi-city trend comparison  
+- Live risk metrics table  
+
+---
+
+### 🔮 Tab 2: Forecasting & Prediction
+
+- 90-day AQI forecast using Prophet  
+- Next 30-day risk table by persona  
+- Real-time unsafe day counts  
+- AQI confidence intervals  
+
+**Run the dashboard locally:**
+```bash
+streamlit run streamlit_app.py
+
 
